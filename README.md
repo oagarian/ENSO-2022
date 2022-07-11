@@ -4,10 +4,10 @@
 
 Para o uso da cálculo utilize a URL: **https://calculadora/**, logo após, adicione a operação e os números, separados por barras.
 As possibilidades de operações são:
-**/soma/**
-**/subtracao/**
-**/multiplicacao/**
-**/divisao/**
+* **/soma/**
+* **/subtracao/**
+* **/multiplicacao/**
+* **/divisao/**
 
 **Exemplo:**
 ```
@@ -27,7 +27,7 @@ O resultado que sairá impresso será:
 
 ## Autores
 
-[Thiago Natan](https://github.com/oagarian/)
-[Silmara Nunes](https://github.com/sil008)
-[Natally Emanuelle](https://github.com/natally02/)
-[Cayo Henrique](https://github.com/cayohenrique250)
+* [Thiago Natan](https://github.com/oagarian/)
+* [Silmara Nunes](https://github.com/sil008)
+* [Natally Emanuelle](https://github.com/natally02/)
+* [Cayo Henrique](https://github.com/cayohenrique250)
