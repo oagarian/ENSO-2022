@@ -7,7 +7,7 @@ As possibilidades de operações são:
 * **/soma/**
 * **/subtracao/**
 * **/multiplicacao/**
-* **/divisao/**
+* **/divisao/** 
 
 **Exemplo:**
 ```
@@ -25,7 +25,7 @@ O resultado que sairá impresso será:
 
 **O software atualmente está na versão 0.0.1**
 
-## 👨‍💻​ Autores
+## 👨‍💻​ Autores 
 
 * [Thiago Natan](https://github.com/oagarian/)
 * [Silmara Nunes](https://github.com/sil008)
