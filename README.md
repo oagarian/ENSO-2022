@@ -11,11 +11,11 @@ As possibilidades de operações são:
 
 **Exemplo:**
 ```
-https://calculadora/subtracao/4/2/
+https://calculadora/soma/4/2/
 ```
 O resultado que sairá impresso será:
 ```
-2
+6
 ```
 ## 💻 Linguagem de construção
 
