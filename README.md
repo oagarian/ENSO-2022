@@ -11,11 +11,11 @@ As possibilidades de operações são:
 
 **Exemplo:**
 ```
-https://calculadora/subtracao/4/2/
+https://calculadora/soma/4/2/
 ```
 O resultado que sairá impresso será:
 ```
-2
+6
 ```
 ```
 https://calculadora/soma/5/6/
@@ -32,6 +32,7 @@ O resultado que sairá impresso será:
 ## 🚩​ Versão atual
 
 **O software atualmente está na versão 0.0.1**
+**O seguinte software ainda está em desenvolvimento, logo, mais informações serão inseridas ao longo do tempo**
 
 ## 👨‍💻​ Autores
 
