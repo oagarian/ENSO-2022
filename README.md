@@ -18,7 +18,7 @@ O resultado que sairá impresso será:
 2
 ```
 ```
-https://calculadora/subtracao/5/6/
+https://calculadora/soma/5/6/
 ```
 O resultado que sairá impresso será:
 ```
