@@ -2,7 +2,7 @@
 
 ## 📜​ Instruções
 
-Para o uso da cálculo utilize a URL: **https://calculadora/**, logo após, adicione a operação e os números, separados por barras.
+Para fazer o cálculo, acesse a URL: **https://calculadora/**, posteriormete, adicione a operação e os números desejados, separado-os por barras.
 As possibilidades de operações são:
 * **/soma/**
 * **/subtracao/**
