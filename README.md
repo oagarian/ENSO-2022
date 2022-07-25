@@ -17,6 +17,7 @@ O resultado que sairá impresso será:
 ```
 2
 ```
+______________________________________
 ```
 https://calculadora/soma/5/6/
 ```
