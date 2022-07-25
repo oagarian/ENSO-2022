@@ -11,7 +11,7 @@ As possibilidades de operações são:
 
 **Exemplo:**
 ```
-https://calculadora/multiplicacao/5/2/
+https://calculadora/multiplicacao/4/2/
 ```
 O resultado que sairá impresso será:
 ```
