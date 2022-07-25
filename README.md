@@ -24,6 +24,7 @@ O resultado que sairá impresso será:
 ## 🚩​ Versão atual
 
 **O software atualmente está na versão 0.0.1**
+**O seguinte software ainda está em desenvolvimento, logo, mais informações serão inseridas ao longo do tempo**
 
 ## 👨‍💻​ Autores
 
