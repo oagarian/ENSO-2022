@@ -9,7 +9,7 @@ As possibilidades de operações são:
 * **/multiplicacao/**
 * **/divisao/**
 
-**Exemplo:**
+**Exemplo subtração:**
 ```
 https://calculadora/subtracao/4/2/
 ```
@@ -18,6 +18,7 @@ O resultado que sairá impresso será:
 2
 ```
 ______________________________________
+**Exemplo soma:**
 ```
 https://calculadora/soma/5/6/
 ```
