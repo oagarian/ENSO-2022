@@ -2,12 +2,12 @@
 
 ## 📜​ Instruções
 
-Para o uso da cálculo utilize a URL: **https://calculadora/**, logo após, adicione a operação e os números, separados por barras.
+Para fazer o cálculo, acesse a URL: **https://calculadora/**, posteriormete, adicione a operação e os números desejados, separado-os por barras.
 As possibilidades de operações são:
 * **/soma/**
 * **/subtracao/**
 * **/multiplicacao/**
-* **/divisao/**
+* **/divisao/** 
 
 **Exemplo:**
 ```
@@ -34,7 +34,7 @@ O resultado que sairá impresso será:
 **O software atualmente está na versão 0.0.1**
 **O seguinte software ainda está em desenvolvimento, logo, mais informações serão inseridas ao longo do tempo**
 
-## 👨‍💻​ Autores
+## 👨‍💻​ Autores 
 
 * [Thiago Natan](https://github.com/oagarian/)
 * [Silmara Nunes](https://github.com/sil008)
