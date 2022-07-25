@@ -17,6 +17,14 @@ O resultado que sairá impresso será:
 ```
 2
 ```
+```
+https://calculadora/soma/5/6/
+```
+O resultado que sairá impresso será:
+```
+11
+```
+
 ## 💻 Linguagem de construção
 
 **O programa foi ?% programado em [Java](https://www.java.com/pt-BR/), ?% em outras linguagens**
