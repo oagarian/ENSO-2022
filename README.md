@@ -4,7 +4,7 @@
 
 Para fazer o cálculo, acesse a URL: **https://calculadora/**, posteriormete, adicione a operação e os números desejados, separado-os por barras.
 As possibilidades de operações são:
-* **/soma/**
+* **/soma/**AAAAAAAAAAAAAAAAAA  
 * **/subtracao/**
 * **/multiplicacao/**
 * **/divisao/** 
