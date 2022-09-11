@@ -27,7 +27,6 @@ O resultado que sairá impresso será:
 11
 ```
 
-
 ## 💻 Linguagem de construção
 
 **O programa foi ?% programado em [Java](https://www.java.com/pt-BR/), ?% em outras linguagens**
