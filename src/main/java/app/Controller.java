@@ -7,6 +7,6 @@ public class Controller {
 
   @GET
   public String sayHi() {
-    return "API calculadora!";
+    return "Adicione a operação correspondente na URL como explicado na ReadMe para utilizar a API!";
   }
 }
