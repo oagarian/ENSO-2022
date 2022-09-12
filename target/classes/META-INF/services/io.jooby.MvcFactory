@@ -1,6 +1,2 @@
-app.Controller$Module
-app.Subtracao$Module
-app.Multiplicacao$Module
-app.Soma$Module
-app.Divisao$Module
+app.subtracao$Module
 
