@@ -3,7 +3,7 @@ package app;
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
 
-@Path("/soma/{nf}/{ns}")
+@Path("/soma/{nf}/{ns}/")
 public class Soma {
     
     @GET
