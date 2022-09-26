@@ -3,8 +3,8 @@ package app;
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
 
-@Path("/divisao/{nf}/{ns}")
-public class divisao {
+@Path("/divisao/{nf}/{ns}/")
+public class Divisao {
     
     @GET
     public double calcula(@PathParam("nf") String fStr, @PathParam("ns") String sStr) {
