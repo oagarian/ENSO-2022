@@ -28,7 +28,7 @@ public class DivisaoTest {
     @Test
     public void verificarDivisaoZero(){
         double resultado = divisao.calcula("0", "4");
-        assertEquals(4.0, resultado);
+        assertEquals(0.0, resultado);
     }
 
     @Test
