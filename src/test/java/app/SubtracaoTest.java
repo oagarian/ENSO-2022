@@ -22,7 +22,7 @@ public class SubtracaoTest {
     @Test
     public void verificarSubtracaoDouble(){
         double resultado = subtracao.calcula("6.5", "2.7");
-        assertEquals(4.8, resultado);
+        assertEquals(3.8, resultado);
     }
 
 }
