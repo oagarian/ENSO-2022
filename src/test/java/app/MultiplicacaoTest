@@ -27,7 +27,7 @@ public class MultiplicacaoTest {
     
     @Test
     public void verificaMultiplicacaoZero() {
-        double resultado = multiplicacao.calcula("-2424", "-0");
+        double resultado = multiplicacao.calcula("-2424", "0");
         assertEquals(0, resultado);
     }
 
