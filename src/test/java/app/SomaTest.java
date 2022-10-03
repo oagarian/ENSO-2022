@@ -16,7 +16,7 @@ public class SomaTest {
     @Test
     public void verificarCasoBase(){
         double resultado = soma.calcula("5","9");
-        assertEquals(1.0, resultado);
+        assertEquals(14.0, resultado);
     }
 
     @Test
